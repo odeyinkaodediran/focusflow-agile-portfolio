@@ -124,4 +124,4 @@ Continuous Improvement (Kanban)
 
 ---
 
-🚧 This repository is currently being expanded with screenshots, dashboards, sprint reports and project documentation.
+This repository is currently being expanded with screenshots, dashboards, sprint reports and project documentation.
