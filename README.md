@@ -1,6 +1,6 @@
 # FocusFlow MVP
 
-## Agile Project Management Portfolio
+## Agile Project Management Portfolio.
 
 > Delivering software projects using Scrum, Kanban, Jira and Confluence.
 
