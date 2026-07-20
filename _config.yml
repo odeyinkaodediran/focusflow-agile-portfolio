@@ -1,4 +1,9 @@
-title: "Odeyinka Odediran"
-description: "Agile Project Manager | Scrum Master | Jira | Confluence | Portfolio"
+title: Odeyinka Odediran
+description: Agile Project Manager Portfolio
 theme: jekyll-theme-cayman
-show_downloads: false
+
+header_pages:
+- index.md
+- projects.md
+- about.md
+- contact.md
